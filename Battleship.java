@@ -42,6 +42,7 @@ int[][] playingField = new int[][];
 playingField = createTableTop(10,10);
 
 System.out.println(setShip(4,true));
+//This is a to check a GitHub Theory
 
 }
 
